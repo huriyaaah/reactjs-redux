@@ -1,0 +1,54 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "panjang sesuai content",
+      "thumbnail": "string dlu sementara"
+    },
+    {
+      "id": 2,
+      "title": "judul 2",
+      "thumbnail": "string dlu sementara"
+    },
+    {
+      "id": 3,
+      "title": "judul 3",
+      "thumbnail": "string dlu sementara"
+    },
+    {
+      "id": 4,
+      "title": "judul 4",
+      "thumbnail": "string dlu sementara"
+    },
+    {
+      "id": 5,
+      "title": "judul 5",
+      "thumbnail": "string dlu sementara"
+    },
+    {
+      "id": 6,
+      "title": "judul 6",
+      "thumbnail": "string dlu sementara"
+    },
+    {
+      "id": 7,
+      "title": "judul 7",
+      "thumbnail": "string dlu sementara"
+    },
+    {
+      "id": 8,
+      "title": "judul 8",
+      "thumbnail": "string dlu sementara"
+    },
+    {
+      "id": 9,
+      "title": "judul 9",
+      "thumbnail": "string dlu sementara"
+    },
+    {
+        "id": 10,
+        "title": "judul 10",
+        "thumbnail": "string dlu sementara"
+    }
+  ]
+}
